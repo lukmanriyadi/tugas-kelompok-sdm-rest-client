@@ -346,6 +346,7 @@ if (isset($_SESSION['email']) && isset($_SESSION['pass'])) {
                                                         <div class="form-group mx-5">
                                                             <Tabel for="tahun" class="mr-2">Tahun</Tabel>
                                                             <select class="form-control" id="tahun" name="tahun" onchange="updateDeskripsi()">
+                                                                <option value="2021">2021</option>
                                                                 <option value="2020">2020</option>
                                                                 <option value="2019">2019</option>
                                                             </select>
