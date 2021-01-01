@@ -235,8 +235,8 @@ if (isset($_SESSION['email']) && isset($_SESSION['pass'])) {
                                 <div class="col-md-8">
                                     <h4 class="page-title mb-1">Tambah Data Penggajian</h4>
                                     <ol class="breadcrumb m-0">
-                                        <li class="breadcrumb-item active"><a href="javascript: void(0);">Dashboard</a></li>
-                                        <li class="breadcrumb-item active"><a href="javascript: void(0);">Data Penggjian</a></li>
+                                        <li class="breadcrumb-item active"><a href="index.php">Dashboard</a></li>
+                                        <li class="breadcrumb-item active"><a href="penggajian.php">Data Penggjian</a></li>
                                         <li class="breadcrumb-item active">Tambah Data Penggajian</li>
                                     </ol>
                                 </div>
